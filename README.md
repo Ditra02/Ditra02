@@ -8,6 +8,7 @@
 Still learn
 --->
 
+<p align="center"> <a href="https://github.com/Ditra02/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=Ditra02&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="Ditra02" /></a> </p><br>
 
 <br><a href="#"><p align="center">&nbsp;<img align="center" href="https://github.com/Ditra02" src="https://github-readme-stats.vercel.app/api?username=Ditra02&theme=algolia&show_icons=true" alt="X_Syaf"/></p></a>
 
