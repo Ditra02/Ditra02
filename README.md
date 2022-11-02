@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deetra_02
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learn HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on Developing Web
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learn Python
+- 💞️ I’m looking to collaborate on Artificial Intelligence
 - 📫 How to reach me @deetra_02
 
 <!---
