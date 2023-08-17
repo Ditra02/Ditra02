@@ -1,6 +1,6 @@
 ![Asyafa Ditra Al Hauna Banner](https://github.com/Ditra02/Ditra02/blob/main/asset/github%20banner.png)
 
-### 👋 Hi, I am Ditra
+## 👋 Hi, I am Ditra
 
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
