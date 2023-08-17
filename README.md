@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Deetra_02
+- 👋 Hi, I am Asyafa Ditra Al Hauna
 - 👀 I’m interested in Machine Learning
+
 - 🌱 I’m currently learn Python
 - 💞️ I’m looking to collaborate on Artificial Intelligence
-- 📫 How to reach me @deetra_02
+- 📫 How to reach me IG: @deetra_02 | LinkedIn : [MyLinkedIn](https://www.linkedin.com/in/asyafaditra/)
 
 <!---
 Still learn
