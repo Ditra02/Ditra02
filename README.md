@@ -1,7 +1,7 @@
 ### 👋 Hi, I am Ditra
 
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learn Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Artificial Intelligence
 
 <!---
@@ -16,7 +16,7 @@ Still learn
 </p>
 
 ### Github Statistic
-<p align="left">
+<p align="center">
 <a href="https://github.com/Ditra02">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ditra02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ditra02&layout=compact&langs_count=8&theme=algolia"/>
