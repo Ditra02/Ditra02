@@ -25,8 +25,21 @@ Still learn
 </a>
 </p>
   
-### 📫 How to reach me 
-- [Instagram](https://www.instagram.com/deetra_02/)
-- [LinkedIn](https://www.linkedin.com/in/asyafaditra/)
-  
+<div align="center">
+  <a href="https://www.instagram.com/deetra_02/">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/asyafaditra/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+<br>
+
 <p align="center"> <a href="https://github.com/Ditra02/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=Ditra02&label=PROFILE%20VISITORS&color=blue&style=flat-square" alt="Ditra02" /></a> </p><br>
